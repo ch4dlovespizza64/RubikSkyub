@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ch4dlovespizza64/RubikSkyub/main/RubikSkyub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ch4dlovespizza64/RubikSkyub/main/Source_Rubiks.lua"))()
 --[[
 RubikSkyub v1.4
 Updates in the script
